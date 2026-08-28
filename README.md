@@ -39,7 +39,7 @@ The HTML implementation focuses on:
 ## Current HTML Structure
 
 ```text
-aqsa-portfolio/
+Thiranex-Intern-portfolio-website/
 │
 ├── index.html
 ├── about.html
