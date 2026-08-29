@@ -233,6 +233,7 @@ Following SEO best practices
 Testing websites across screen sizes
 Improving code structure and maintainability
 Applying web development concepts to a real project
+
 🔗 Repository
 
 The complete source code for this internship project is available on GitHub:
@@ -247,11 +248,11 @@ I enjoy building projects, learning new skills, and continuously improving my kn
 
 📬 Contact
 
-Email: abc@gmail.com
+Email: aqsaskp786@gmail.co
 
-GitHub: Coming soon
+GitHub: https://github.com/AqsaShahzadi-stack
 
-LinkedIn: Coming soon
+LinkedIn: https://www.linkedin.com/in/aqsa-sha/
 
 📜 License
 
