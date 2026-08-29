@@ -184,15 +184,13 @@ Thiranex-Intern-portfolio-website/
 ├── projects.html
 ├── contact.html
 │
-├── css/
-│   └── style.css
+├── style.css
 │
-├── js/
-│   └── script.js
+├── script.js
 │
-├── images/
 │
 └── README.md
+
 🚧 Project Status
 
 Status: In Development
